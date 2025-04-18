@@ -33,7 +33,7 @@ body{
 
 
 .box{
-  position: absolute; background-color: #ffffff5e;
+  position: absolute; background-color: #fff;
   width: 200px;
   height: 200px;
   text-align: center;
@@ -42,6 +42,7 @@ body{
 .bx{
   font-size: 80px;
   margin: 30%;
+  color: #2e2e2e;
 }
 
 .front{
